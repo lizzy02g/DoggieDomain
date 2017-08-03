@@ -2,6 +2,11 @@ body {
         background-image: url("pictures/BackgroundBones.jpg");
 }
 
+h1{
+  font-weight: bold;
+}
+
+
 .dogPic {
   float:left;
   overflow:hidden;
