@@ -1,7 +1,7 @@
 body{
-   background-image: url("pictures/background.jpg");
+   background-image: url("pictures/BackgroundBones.jpg");
 }
 
-h1{
-  color: "blue";
-}
+p{
+  font-size: 16px;
+}  
