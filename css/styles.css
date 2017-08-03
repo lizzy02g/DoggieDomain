@@ -1,25 +1,3 @@
-h1 { color: red; }
-
-#button {
-    width: 100px;
-    border: 3px solid black;
-    padding: 10px;
-    margin: 120px;
-    background-color: #C5FFCE
-}
-
-#button2 {
-    width: 100px;
-    border: 3px solid black;
-    padding: 10px;
-    margin: 120px;
-    background-color: #C5FFCE
-}
-
-#button3 {
-    width: 100px;
-    border: 3px solid black;
-    padding: 10px;
-    margin: 120px; 
-    background-color: #C5FFCE
+h1 {
+  font-weight: strong;
 }
