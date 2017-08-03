@@ -1,0 +1,16 @@
+body {
+        background-image: url("pictures/BackgroundBones.jpg");
+}
+
+.dogPic {
+  float:left;
+  overflow:hidden;
+  position:relative;
+  margin-top: 8px;
+}
+
+.dogInfo{
+  color:blue;
+  float:right;
+  position: inherit;
+}
